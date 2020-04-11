@@ -16,7 +16,6 @@ searchUser.addEventListener('keyup', (event) => {
             if (resp.status === 404) {
                 ui.showAlert(resp.profile.message)
                 ui.clearProfile()
-                console.log(resp.profile.message);
             } else {
                 ui.showProfile(resp.profile)
                 ui.showRepos(resp.repos)
