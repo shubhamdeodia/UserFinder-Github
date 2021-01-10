@@ -5,4 +5,6 @@ Created using
 
 🚀 Vanilla JS, CSS and HTML
 
+[Live Demo](https://shubhamdeodia.github.io/UserFinder-Github/)
+ 
 ![](images/userfinder.jpg)
